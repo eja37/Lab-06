@@ -25,7 +25,13 @@
     top: 0px;
 }
 
-
+.background-image{
+    height: 250px;
+    width: 250px;
+    background-image: url("image.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
 
 
 

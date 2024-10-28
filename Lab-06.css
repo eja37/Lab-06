@@ -1,3 +1,26 @@
+.static-box{
+    position: static;
+}
+
+.relative-box{
+    position: relative;
+    top: 20px;
+    left: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #Q1-Flexbox nav ul {
     width: 1000px;
     height: 150px;

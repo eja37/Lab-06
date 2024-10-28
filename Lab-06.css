@@ -8,7 +8,11 @@
     left: 30px;
 }
 
-
+.absolute-box{
+    position: absolute;
+    top: 10px;
+    left: 15px;
+}
 
 
 

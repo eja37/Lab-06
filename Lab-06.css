@@ -33,6 +33,12 @@
     background-repeat: no-repeat;
 }
 
+.background-image-repeat{
+    height: 300px;
+    width: 250px;
+    background-image: url("sunflower.png");
+    background-size: contain;
+}
 
 
 

@@ -20,7 +20,10 @@
     right: 10px;
 }
 
-
+.sticky-box{
+    position: sticky;
+    top: 0px;
+}
 
 
 

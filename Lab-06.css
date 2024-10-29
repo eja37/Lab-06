@@ -108,3 +108,15 @@ div{
     align-content: space-between;
     justify-content: space-evenly;
 }
+
+.flex-container6{
+    display: flex;
+    position: relative;
+    height: 100px;
+    width: 750px;
+}
+
+.child-grow{
+    flex-grow: 2;
+    transition-duration: 30s;
+}

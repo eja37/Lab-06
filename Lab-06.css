@@ -66,3 +66,10 @@ div{
     height: 100px;
     width: 750px;
 }
+
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    width: 250px;
+}

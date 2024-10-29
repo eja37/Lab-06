@@ -60,4 +60,9 @@ div{
     z-index: 2;
 }
 
-
+.mother{
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+    width: 750px;
+}

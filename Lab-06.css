@@ -73,3 +73,13 @@ div{
     height: 300px;
     width: 250px;
 }
+
+.flex-container2{
+    display: flex;
+    justify-content: space-evenly;
+    width: 800px;
+    height: 200px;
+    position: relative;
+    flex-direction: row;
+}
+
